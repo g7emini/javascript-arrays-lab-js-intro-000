@@ -26,3 +26,4 @@ function prependKitten(name){
   return [name, ...kittens];
 }
 
+remove
