@@ -26,4 +26,6 @@ function prependKitten(name){
   return kittens.unshift(name);
 }
 
-function 
+function removeLastKitten(){
+  return 
+}
